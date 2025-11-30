@@ -161,7 +161,6 @@ We welcome community contributions! Some areas we have identified are:
 
 - **TensorRT-LLM Integration**: Our initial experiments suggest inference speed could be improved from 4 Hz to 6 Hz using optimized inference engines like TensorRT-LLM.
 - **Lower Precision Deployment**: Implementing quantization and lower precision inference (e.g., INT8) could provide significant speed improvements with minimal accuracy loss.
-- ~~**LeRobot Version Compatibility**: Testing and ensuring compatibility with newer versions of LeRobot.~~ ✅ **Done!** The dataloader now supports LeRobot 0.1.0 through 0.4.x.
 - **Direct LeRobot Integrations**: Make integrating with lerobot simpler and easier.
 
 ---
